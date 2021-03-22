@@ -30,7 +30,7 @@ class Navbar extends Component {
                                     <a className="nav-link uppercase text-dark" href="#">contact</a>
                                 </li>
                                 <Button type="submit">log in</Button>
-                                <Button type="submit"style={{color: 'white', backgroundColor: '#FF5C00'}}>sign up</Button>
+                                <Button type="submit"style={{color: 'white', backgroundColor: '#FF5C00'}}>sign up for</Button>
                             </form>
                         </div>
                     </div>
